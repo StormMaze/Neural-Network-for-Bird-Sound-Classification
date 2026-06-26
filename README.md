@@ -65,9 +65,9 @@ This notebook expects the Cornell Birdcall Identification dataset unzipped on Go
 
 ```
 ColabNotebooks/BirdSong/data/
-├── train\_audio/
-│   ├── amecro/\*.mp3
-│   ├── bulori/\*.mp3
+├── train_audio/
+│   ├── amecro/*.mp3
+│   ├── bulori/*.mp3
 │   └── ...
 ```
 
