@@ -13,21 +13,13 @@ Rather than feeding raw audio into a model, this project turns the classificatio
 Trained on 6 bird species, the model reached **90.5% accuracy** on a held out test set.
 
 | Species code | Common name | Precision | Recall | F1 |
-
 |---|---|---|---|---|
-
 | `amecro` | American Crow | 1.00 | 1.00 | 1.00 |
-
 | `bulori` | Baltimore Oriole | 0.90 | 0.90 | 0.90 |
-
 | `chispa` | Chipping Sparrow | 0.82 | 0.82 | 0.82 |
-
 | `grhowl` | Great Horned Owl | 0.91 | 0.91 | 0.91 |
-
 | `horlar` | Horned Lark | 0.85 | 1.00 | 0.92 |
-
 | `mouchi` | Mountain Chickadee | 1.00 | 0.80 | 0.89 |
-
 
 **Overall: 90% accuracy, 0.91 macro F1** across 63 test samples. American Crow was a clean 100%. Chipping Sparrow was the model's weakest spot (0.82 F1), which tracks with how similar chipping sparrow calls can sound to other small songbird species in a spectrogram.
 
