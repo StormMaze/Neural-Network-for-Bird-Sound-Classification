@@ -2,7 +2,7 @@
 
 A convolutional neural network that identifies bird species from audio recordings by converting bird calls into spectrogram images and classifying those images with a CNN trained from scratch.
 
-[![Open This In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StormMaze/Neural-Network-for-Bird-Sound-Classification/blob/main/BirdSound_classification.ipynb)
+
 
 ## Overview
 
